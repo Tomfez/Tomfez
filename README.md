@@ -1,4 +1,4 @@
-![Tomfez's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomfez&show_icons=true&theme=radical)
+![Tomfez's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomfez&show_icons=true&theme=dracula)
 
 <!--
 **Tomfez/Tomfez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
