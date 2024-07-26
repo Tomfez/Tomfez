@@ -1,6 +1,20 @@
-![Tomfez's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomfez&show_icons=true&theme=dracula)
+### <div align="center" width="200">I am Tomfez, a French developer 🇫🇷</div>
+<div>
+<p>I code mostly on C# and sometimes in Javascript.I am interested in creating apps to help me in my workflow.</p>
+<p>As a new Linux user, I see the importance of open sources apps. I wish to contribute to them.</p>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomfez)](https://github.com/Tomfez/github-readme-stats)
+
+## My Coding Stats 📈
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tomfez&show_icons=true&count_private=true&hide_border=true&theme=dracula" />
+</div>
+
+## Main languages 🧑‍💻
+<div align="center">   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomfez" />
+</div>
 <!--
 **Tomfez/Tomfez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
